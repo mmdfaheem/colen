@@ -1,0 +1,183 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:beige;
+}
+#parent{
+    display:flex;
+    flex-direction: row;
+    text-align: center; 
+}
+#image{
+    width:70%;
+}
+#miniimg{
+    width:30%;
+}
+#img2{
+    width:30rem;
+    height:25rem;
+    margin:auto;
+    /* justify-content: center; */
+    /* justify-items: center; */
+    display:none;
+}
+
+#img1{
+    width:30rem;
+    height:25rem;
+    margin:auto;
+    /* justify-content: center; */
+    /* justify-items: center; */
+    display:none;
+}
+.img3{
+    width:2rem;
+    height:2rem;
+
+}
+
+
+
+#center{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#text{
+    margin-bottom:3rem;
+    width:19rem;
+    margin:auto;
+    display: block;
+    height:2rem;
+    font-size: 1rem;
+    /* border-radius:0.1rem; */
+    
+}
+#add{
+    width:4rem;
+    height:2rem;
+    /* float:right; */
+    margin:auto;
+    display: block;
+    font-weight:bold;
+margin-top:4px;
+margin-bottom:4px;
+    background-color:navy;
+    color:white;
+}
+
+#output{
+    /* background-color: black; */
+    
+    padding:0.1rem 0rem;
+    width:30rem;
+    margin:auto;
+    display:block;
+    /* border:3px solid red; */
+    
+}
+.div{
+    font-size:1.2rem;
+    width:19rem;
+    display:block;
+    margin:auto;
+    text-align: left;
+    background-color:black;
+    color:white;
+    /* border:2px solid white; */
+    height:2rem;
+    /* padding:1rem 0rem; */
+    
+
+}
+
+
+#button4{
+
+    padding:3px 8px;
+    
+    float:right;
+    margin-top:3px;
+    background-color: yellowgreen;
+    color:white;
+    border-radius:4.5px;
+}
+
+
+
+#button3{
+    padding:3px;
+    float:right;
+    margin-top:3px;
+    background-color: red;
+    color:white;
+    border-radius:4.5px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#reset{
+    padding:5px;
+    /* margin:auto; */
+    margin-left:5.35rem;
+    display:block;
+    margin-top:3px;
+    background-color: red;
+    color:white;
+    border-radius:4.5px;
+    margin-top:1rem;
+    
+}
+#project5{
+    border:2px solid black;
+    margin:auto;
+    display:block;
+    width:30rem;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+.div{
+border:3px solid red;
+width:500px;
+height:100px;
+display:grid;
+grid-row:span;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
